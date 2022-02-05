@@ -7,6 +7,7 @@ num1 = float(input('Digite o primeiro numero: '))
 num2 = float(input(' Digite o segundo numero: '))
 
 con = input('Digite o tipo de conta que ira fazer (+,-,*,/,%): ')
+    # Escolher a condição para o calculo
 
 
 if con == '+':
